@@ -313,9 +313,11 @@ display: flex;
 
 	}
 	.p_aboutUS_right{
+		
 		color: #fff;
 		font-size: 12pt;
-		line-height: 0.5;
+		font-weight: 700;
+		line-height: 1;
 
 
 	}

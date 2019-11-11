@@ -14,7 +14,15 @@
 }
 
 
+.p_aboutUS_right{
+        
+        color: #fff;
+        font-size: 12pt;
+        font-weight: 700;
+        line-height: 1.5;
 
+
+    }
 
 .col-md-8 {
     -ms-flex: 0 0 66.666667%;
