@@ -113,5 +113,11 @@ nav{
 }
 
 @media only screen and (max-width:480px){
+
+    .img_about_us {
+    width: 140px!important;
+    height: auto;
+    border-radius: 50%;
+}
 }
 
